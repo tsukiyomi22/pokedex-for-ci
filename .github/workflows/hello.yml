@@ -6,7 +6,7 @@ on:
       - main
 jobs:
   hello_world:
-    runs-on: ununtu-18.04
+    runs-on: ununtu-20.04
     steps:
       - name: Echo Hello
         run: |
