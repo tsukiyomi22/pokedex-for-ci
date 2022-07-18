@@ -13,4 +13,3 @@ jobs:
           echo "Hello GitHub"
       - name: Date please
         run: date
-      - run: ls -l%
